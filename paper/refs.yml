@@ -1,0 +1,438 @@
+# Bibliography for "Push Engraving on Copper Plate: The Conversion on the Way to Damascus"
+# Hayagriva format (Typst native bibliography format).
+# See: https://github.com/typst/hayagriva/blob/main/docs/file-format.md
+
+# =============================================================================
+# Period treatises (primary sources)
+# =============================================================================
+
+theophilus:
+  type: book
+  title: On Divers Arts
+  author: ["Theophilus Presbyter"]
+  translator:
+    - Hawthorne, John G.
+    - Smith, Cyril Stanley
+  date: 1979
+  publisher: Dover Publications
+  location: New York
+  note: >
+    Original manuscript c. 1100–1120 as "De Diversis Artibus." The oldest
+    surviving complete treatise on metalworking crafts. Author traditionally
+    identified (with caution) as Roger of Helmarshausen.
+
+theophilus-hendrie:
+  type: book
+  title: "An Essay upon Various Arts, in Three Books, by Theophilus, called also Rugerus, Priest and Monk"
+  author: ["Theophilus Presbyter"]
+  translator: ["Hendrie, Robert"]
+  date: 1847
+  publisher: John Murray
+  location: London
+  url: https://archive.org/details/theophiliquietr01hendgoog
+  note: >
+    The first English translation of Theophilus's "De Diversis Artibus,"
+    edited from a Wolfenbüttel manuscript with parallel Latin and English
+    text. Public domain; used here for direct quotation of Book III chapters
+    on iron tempering and the making of files and cutting irons.
+
+cellini-treatises:
+  type: book
+  title: The Treatises of Benvenuto Cellini on Goldsmithing and Sculpture
+  author: ["Cellini, Benvenuto"]
+  translator: ["Ashbee, C. R."]
+  date: 1967
+  publisher: Dover Publications
+  location: New York
+  note: >
+    Originally written in the 1560s as "Trattati dell'oreficeria e della
+    scultura." Reprint of Ashbee's 1898 Essex House Press edition.
+
+bosse-traite:
+  type: book
+  title: "Traicté des manieres de graver en taille dovce svr l'airin"
+  author: ["Bosse, Abraham"]
+  date: 1645
+  location: Paris
+  language: fr
+  url: https://archive.org/details/traictdesmaniere00boss
+  note: >
+    The first published treatise specifically on engraving. English
+    translation by William Faithorne, 1662. Documents practices and tools
+    functionally unchanged from the previous century. Internet Archive
+    facsimile contributed by Duke University Libraries.
+
+# =============================================================================
+# Modern art-historical scholarship
+# =============================================================================
+
+landau-parshall:
+  type: book
+  title: "The Renaissance Print, 1470–1550"
+  author:
+    - Landau, David
+    - Parshall, Peter
+  date: 1994
+  publisher: Yale University Press
+  location: New Haven
+  page-range: 21-32
+
+griffiths-prints:
+  type: book
+  title: "Prints and Printmaking: An Introduction to the History and Techniques"
+  author: ["Griffiths, Antony"]
+  date: 1996
+  publisher: British Museum Press
+  location: London
+  edition: revised
+  page-range: 38-50
+
+mayor-prints-people:
+  type: book
+  title: "Prints and People: A Social History of Printed Pictures"
+  author: ["Mayor, A. Hyatt"]
+  date: 1971
+  publisher: Metropolitan Museum of Art
+  location: New York
+  page-range: 130
+  note: "Mayor was Curator of Prints at the Metropolitan Museum of Art."
+
+panofsky-durer:
+  type: book
+  title: "The Life and Art of Albrecht Dürer"
+  author: ["Panofsky, Erwin"]
+  date: 1955
+  publisher: Princeton University Press
+  location: Princeton
+  edition: 4
+  page-range: 17-44
+  note: "First published 1943; the canonical scholarly biography."
+
+lehrs-1925:
+  type: book
+  title: "Geschichte und kritischer Katalog des deutschen, niederländischen und französischen Kupferstichs im XV. Jahrhundert, Band V: Martin Schongauer und seine Schule"
+  author: ["Lehrs, Max"]
+  date: 1925
+  publisher: Gesellschaft für vervielfältigende Kunst
+  location: Vienna
+  volume: 5
+  url: https://digi.ub.uni-heidelberg.de/diglit/lehrs1925bd5text
+  language: de
+  note: >
+    The canonical catalogue raisonné of fifteenth-century Northern engraving;
+    volume V is devoted entirely to Schongauer and his school.
+
+hind-history-engraving:
+  type: book
+  title: "A History of Engraving and Etching from the 15th Century to the Year 1914"
+  author: ["Hind, Arthur M."]
+  date: 1963
+  publisher: Dover Publications
+  location: New York
+  page-range: 1-50
+  note: "Reprint of 3rd revised edition, Houghton Mifflin, 1923. Chs. I–II on origins."
+
+levenson-early-italian-engravings:
+  type: book
+  title: "Early Italian Engravings from the National Gallery of Art"
+  editor: ["Levenson, Jay A."]
+  author:
+    - Levenson, Jay A.
+    - Oberhuber, Konrad
+    - Sheehan, Jacquelyn L.
+  date: 1973
+  publisher: National Gallery of Art
+  location: Washington, DC
+  page-range: 528-529
+
+pon-raphael-marcantonio:
+  type: book
+  title: "Raphael, Dürer, and Marcantonio Raimondi: Copying and the Italian Renaissance Print"
+  author: ["Pon, Lisa"]
+  date: 2004
+  publisher: Yale University Press
+  location: New Haven
+  page-range: 35-80
+
+vasari-bondanella:
+  type: book
+  title: "The Lives of the Artists"
+  author: ["Vasari, Giorgio"]
+  translator:
+    - Bondanella, Julia Conaway
+    - Bondanella, Peter
+  date: 1998
+  publisher: Oxford University Press
+  location: Oxford
+  note: "Oxford World's Classics; first OUP edition 1991."
+
+colvin-finiguerra-eb1911:
+  type: entry
+  title: "Finiguerra, Maso"
+  author: ["Colvin, Sidney"]
+  date: 1911
+  parent:
+    type: anthology
+    title: "Encyclopædia Britannica, Eleventh Edition"
+    volume: 10
+  page-range: 376-378
+  url: "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Finiguerra,_Maso"
+
+dodwell-theophilus:
+  type: book
+  title: "Theophilus: De Diversis Artibus / The Various Arts"
+  author: ["Theophilus Presbyter"]
+  editor: ["Dodwell, C. R."]
+  translator: ["Dodwell, C. R."]
+  date: 1986
+  publisher: Clarendon Press
+  location: Oxford
+  note: "Oxford Medieval Texts; reissue of Nelson 1961 critical edition."
+
+# =============================================================================
+# Encyclopedia entries (Britannica)
+# =============================================================================
+
+britannica-burin:
+  type: entry
+  title: Burin
+  parent:
+    type: anthology
+    title: Encyclopædia Britannica
+  url: https://www.britannica.com/topic/burin
+
+britannica1911-line-engraving:
+  type: entry
+  title: Line-Engraving
+  parent:
+    type: anthology
+    title: Encyclopædia Britannica, Eleventh Edition
+  date: 1911
+  url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Line_Engraving
+
+# =============================================================================
+# Museum sources
+# =============================================================================
+
+nga-tintoretto-conversion:
+  type: chapter
+  title: "Tintoretto: The Conversion of Saint Paul, c. 1544"
+  author:
+    - name: National Gallery of Art
+  parent:
+    type: book
+    title: "Italian Paintings of the Sixteenth Century"
+    publisher: National Gallery of Art
+    location: Washington, DC
+  url: https://www.nga.gov/research/publications/italian-paintings-sixteenth-century-0/italian-paintings-sixteenth-century-conversion-saint-paul-c-1544
+
+met-thompson-engraving:
+  type: web
+  title: "The Printed Image in the West: Engraving"
+  author: ["Thompson, Wendy"]
+  date: 2003-10
+  parent:
+    type: web
+    title: Heilbrunn Timeline of Art History
+    publisher: The Metropolitan Museum of Art
+  url: https://www.metmuseum.org/essays/the-printed-image-in-the-west-engraving
+
+va-schongauer-resurrection:
+  type: post
+  title: "Twenty Objects for Twenty Years: Martin Schongauer, The Resurrection, Colmar, 1479–1480"
+  author: ["Nuttall, Paula"]
+  date: 2013-04-02
+  parent:
+    type: web
+    title: V&A Blog
+    publisher: Victoria and Albert Museum
+  url: https://www.vam.ac.uk/blog/museum-life/twenty-objects-twenty-years-martin-schongauer-resurrection-colmar-1479
+
+bm-baldung-conversion:
+  type: artwork
+  title: "The Conversion of St. Paul (woodcut, c. 1515–17; Hollstein 125)"
+  author: ["Baldung Grien, Hans"]
+  date: 1515
+  archive: British Museum
+  archive-location: London
+  url: https://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1424883&partId=1
+
+met-lucas-conversion:
+  type: artwork
+  title: The Conversion of St. Paul
+  author: ["van Leyden, Lucas"]
+  date: 1509
+  archive: Metropolitan Museum of Art
+  archive-location: New York
+  serial-number: "34.94.4"
+
+khm-parmigianino-conversion:
+  type: artwork
+  title: "The Conversion of Saint Paul (c. 1527–28; Gemäldegalerie inv. 2035)"
+  author: ["Parmigianino (Francesco Mazzola)"]
+  date: 1527
+  archive: Kunsthistorisches Museum
+  archive-location: Vienna
+  url: https://www.khm.at/en/objectdb/detail/1409/
+
+moretto-conversion:
+  type: artwork
+  title: "The Conversion of Saint Paul (La conversione di San Paolo)"
+  author: ["Moretto da Brescia (Alessandro Bonvicino)"]
+  date: 1540
+  archive: Santuario di Santa Maria dei Miracoli presso San Celso
+  archive-location: Milan
+  url: https://en.wikipedia.org/wiki/Santa_Maria_presso_San_Celso
+  note: >
+    Painted c. 1540–1541 on a vault of the ambulatory of Santa Maria presso
+    San Celso, Milan. Documented in archival payment records (715 lira to
+    Alessandro Bonvicino, 1540–41); long misattributed to Callisto Piazza
+    until reattribution on the basis of those documents. Notable for its
+    minimal two-figure composition (Saul and his horse) which prefigures
+    Caravaggio's later treatment of the same subject.
+
+wallace-pauline-chapel:
+  type: article
+  title: "Narrative and Religious Expression in Michelangelo's Pauline Chapel"
+  author: ["Wallace, William E."]
+  date: 1989
+  parent:
+    type: periodical
+    title: "Artibus et Historiae"
+  volume: 10
+  issue: 19
+  page-range: 107-121
+  note: >
+    Standard modern scholarly reference for Michelangelo's two frescoes
+    (The Conversion of Saul and The Crucifixion of St. Peter) in the
+    Cappella Paolina of the Vatican Palace, painted 1542–1549. The
+    Conversion of Saul fresco is dated c. 1542–45, oil fresco,
+    approximately 625 × 661 cm.
+
+# =============================================================================
+# Practitioner and technical sources
+# =============================================================================
+
+cda-intaglio:
+  type: web
+  title: This History of Intaglio
+  parent:
+    type: web
+    title: Copper Development Association
+  url: https://copper.org/consumers/arts/2012/january/This_History_of_Inta.php
+  date: 2012-01
+  note: Industry trade source; acceptable for uncontroversial copper-property claims.
+
+ganoksin-engraving-tools:
+  type: web
+  title: "Metal Engraving Tools: How To Choose And Prepare Gravers For Jewelry"
+  parent:
+    type: web
+    title: Ganoksin
+  url: https://www.ganoksin.com/article/engraving-tools-preparation/
+
+cablesfarm-graver-sharpening:
+  type: web
+  title: Graver Sharpening
+  author: ["Cathro, David"]
+  parent:
+    type: web
+    title: Antique Firearms Restoration Blog
+  url: http://www.cablesfarm.co.uk/graver-sharpening/
+
+engraverscafe-homemade:
+  type: thread
+  title: Making Homemade Engravers
+  author:
+    - name: "Roki1967 (forum user)"
+  parent:
+    type: web
+    title: Engraver's Cafe
+  url: https://engraverscafe.com/threads/making-homemade-engravers.1924/
+  date: 2007-11-08
+
+engraverscafe-my-own:
+  type: thread
+  title: Making My Own Gravers
+  author:
+    - name: "DocBernard (forum user)"
+  parent:
+    type: web
+    title: Engraver's Cafe
+  url: https://engraverscafe.com/threads/making-my-own-gravers.28055/
+  date: 2023-04-17
+
+engraverscafe-geometry:
+  type: thread
+  title: Graver Geometry for Hand Pushing
+  author:
+    - name: "sam (forum user)"
+  parent:
+    type: web
+    title: Engraver's Cafe
+  url: https://engraverscafe.com/threads/graver-geometry-for-hand-pushing.18560/
+  date: 2015-03-06
+
+engraverscafe-practice:
+  type: thread
+  title: Engraving Practice for Beginners
+  author:
+    - name: "kayscheible (forum user)"
+  parent:
+    type: web
+    title: Engraver's Cafe
+  url: https://engraverscafe.com/threads/engraving-practice-for-beginners.22960/
+  date: 2017-04-26
+
+curtidoscabezas-burin:
+  type: web
+  title: "Engravings with Burin: History, Techniques, and Complete Guide to Master the Art"
+  parent:
+    type: web
+    title: Curtidos Cabezas
+  url: https://www.curtidoscabezas.com/en/blog/news/engravings-with-burin-history-techniques-and-complete-guide-to-master-the-art
+
+glueit-graver-handle:
+  type: web
+  title: DIY Graver Handle with Brass Ferrule
+  parent:
+    type: web
+    title: Glue-it.com
+  url: https://www.glue-it.com/homemade-tools/graver-handle/
+
+# =============================================================================
+# Visual / historical reference
+# =============================================================================
+
+diderot-encyclopedie:
+  type: book
+  title: "Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers — Recueil de planches"
+  author:
+    - Diderot, Denis
+    - d'Alembert, Jean le Rond
+  date: 1767
+  location: Paris
+  note: >
+    The plates illustrating "Gravure en taille-douce" appear in the
+    Encyclopédie's plate volumes (published 1762–1772); the relevant
+    engraving plates are in volume V (c. 1767–1771).
+
+# =============================================================================
+# Biblical
+# =============================================================================
+
+acts-of-the-apostles:
+  type: chapter
+  title: Acts of the Apostles
+  author:
+    - name: Biblia Sacra (Vulgata Clementina)
+  parent:
+    type: book
+    title: Biblia Sacra iuxta Vulgatam Clementinam
+    publisher: Typis Vaticanis
+    location: Rome
+    date: 1592
+  note: >
+    The standard Catholic Latin Bible of the sixteenth century, used here as
+    a period-appropriate scriptural reference. The conversion narrative is
+    Acts 9:1–9, with parallel accounts at Acts 22:6–11 and Acts 26:12–18.

@@ -1,0 +1,10 @@
+# Build artifact (typst writes to the repo root via `make pdf`)
+paper/paper.pdf
+
+# Local tool config
+.claude/
+
+# Editor / OS scratch
+*.swp
+*~
+.DS_Store
