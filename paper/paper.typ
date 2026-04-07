@@ -104,6 +104,12 @@
 
   #v(2em)
 
+  #text(size: 13pt)[
+    Daniel Parker
+  ]
+
+  #v(1.5em)
+
   #text(size: 11pt)[
     Period-Accurate Materials, Tools, Techniques, Process, and Sources \
     For Presentation at Historical Reenactment Events
@@ -112,7 +118,7 @@
   #v(3em)
 
   #text(size: 11pt)[
-    Prepared April 2026
+    Updated April 2026
   ]
 ]
 
